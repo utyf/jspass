@@ -1,0 +1,20 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.card {
+    width: 300px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 30px 30px 20px 30px;
+    border-radius: 3px;
+    border: solid 1px #cccccc;
+}
+
+input {
+    padding: 7px 9px;
+}
+
+input#output {
+    margin-top: 10px;
+}
